@@ -1,0 +1,5 @@
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBouncingBalls\WPBouncingBalls\WPBouncingBalls\bin\Windows Phone\Debug\WPBouncingBalls.dll
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBouncingBalls\WPBouncingBalls\WPBouncingBalls\bin\Windows Phone\Debug\WPBouncingBalls.pdb
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBouncingBalls\WPBouncingBalls\WPBouncingBalls\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBouncingBalls\WPBouncingBalls\WPBouncingBalls\obj\Windows Phone\Debug\WPBouncingBalls.dll
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBouncingBalls\WPBouncingBalls\WPBouncingBalls\obj\Windows Phone\Debug\WPBouncingBalls.pdb

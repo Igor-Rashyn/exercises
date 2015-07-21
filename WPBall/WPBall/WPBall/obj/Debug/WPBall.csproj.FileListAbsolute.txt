@@ -1,0 +1,12 @@
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\ApplicationIcon.png
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\Background.png
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\WPBall.dll
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\WPBall.pdb
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\AppManifest.xaml
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\Bin\Debug\WPBall.xap
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\App.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\MainPage.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\WPBall.g.resources
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\WPBall.dll
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\WPBall.pdb
+C:\Users\Alienware\Desktop\Nish\WPBall\WPBall\WPBall\obj\Debug\XapCacheFile.xml

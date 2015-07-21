@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPBouncingBalls", "WPBouncingBalls\WPBouncingBalls\WPBouncingBalls.csproj", "{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WPBouncingBallsContent", "WPBouncingBalls\WPBouncingBallsContent\WPBouncingBallsContent.contentproj", "{FD8170A2-171A-46ED-894C-F36430D1DF65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{DE0DFF92-ECED-4B7F-909B-0CC97EFEADFC}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{FD8170A2-171A-46ED-894C-F36430D1DF65}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FD8170A2-171A-46ED-894C-F36430D1DF65}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
