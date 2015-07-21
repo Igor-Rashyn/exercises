@@ -1,0 +1,6 @@
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Document\Programs\Net\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
