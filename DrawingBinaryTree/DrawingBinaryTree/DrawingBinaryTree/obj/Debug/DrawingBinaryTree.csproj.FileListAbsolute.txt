@@ -1,0 +1,9 @@
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\bin\Debug\DrawingBinaryTree.exe.config
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\bin\Debug\DrawingBinaryTree.exe
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\bin\Debug\DrawingBinaryTree.pdb
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.Form1.resources
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.Properties.Resources.resources
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.exe
+D:\Document\Programs\Net\DrawingBinaryTree\DrawingBinaryTree\DrawingBinaryTree\obj\Debug\DrawingBinaryTree.pdb
