@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Figures>
+<Figure>
+<type>Circle</type>
+<Color>Color [Purple]</Color>
+<Height>178</Height>
+<Width>256</Width>
+<Thickness>8</Thickness>
+<Position>{X=141,Y=75}</Position>
+</Figure>
+<Figure>
+<type>Rectangle</type>
+<Color>Color [Blue]</Color>
+<Height>225</Height>
+<Width>605</Width>
+<Thickness>8</Thickness>
+<Position>{X=430,Y=82}</Position>
+</Figure>
+<Figure>
+<type>RoundRec</type>
+<Color>Color [Red]</Color>
+<Height>244</Height>
+<Width>837</Width>
+<Thickness>8</Thickness>
+<Position>{X=679,Y=108}</Position>
+</Figure>
+<Figure>
+<type>Line</type>
+<Color>Color [Aquamarine]</Color>
+<Height>323</Height>
+<Width>308</Width>
+<Thickness>8</Thickness>
+<Position>{X=218,Y=236}</Position>
+</Figure>
+</Figures>
