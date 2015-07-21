@@ -1,0 +1,6 @@
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\bin\Debug\Singltooon.exe.config
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\bin\Debug\Singltooon.exe
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\bin\Debug\Singltooon.pdb
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\obj\Debug\Singltooon.csprojResolveAssemblyReference.cache
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\obj\Debug\Singltooon.exe
+C:\Document\Programs\Net\Singleton\Singltooon\Singltooon\obj\Debug\Singltooon.pdb
