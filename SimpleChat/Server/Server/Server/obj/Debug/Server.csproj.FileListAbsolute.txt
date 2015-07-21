@@ -1,0 +1,9 @@
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Nishik\Documents\GitHub\Traning\Training\SimpleChat\Server\Server\Server\obj\Debug\Server.pdb
+D:\Document\Programs\Net\SimpleChat\Server\Server\Server\bin\Debug\Server.exe.config
+D:\Document\Programs\Net\SimpleChat\Server\Server\Server\obj\Debug\Server.exe
+D:\Document\Programs\Net\SimpleChat\Server\Server\Server\obj\Debug\Server.pdb
