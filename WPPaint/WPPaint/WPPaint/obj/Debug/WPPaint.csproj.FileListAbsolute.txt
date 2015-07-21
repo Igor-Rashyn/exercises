@@ -1,0 +1,12 @@
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\ApplicationIcon.png
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\Background.png
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\WPPaint.dll
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\WPPaint.pdb
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\AppManifest.xaml
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\Bin\Debug\WPPaint.xap
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\App.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\MainPage.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\WPPaint.g.resources
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\WPPaint.dll
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\WPPaint.pdb
+C:\Users\Alienware\Desktop\Nish\WPPaint\WPPaint\WPPaint\obj\Debug\XapCacheFile.xml
