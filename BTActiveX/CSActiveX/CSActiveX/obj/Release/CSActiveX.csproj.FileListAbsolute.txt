@@ -1,0 +1,7 @@
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\bin\Release\CSActiveX.dll
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\bin\Release\CSActiveX.pdb
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\obj\Release\CSActiveX.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\obj\Release\CSActiveX.CSActiveXCtrl.resources
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\obj\Release\CSActiveX.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\obj\Release\CSActiveX.dll
+D:\Document\Programs\Net\BTActiveX\CSActiveX\CSActiveX\obj\Release\CSActiveX.pdb
