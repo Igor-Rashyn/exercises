@@ -1,0 +1,12 @@
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\ApplicationIcon.png
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\Background.png
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\WPPaintVector.dll
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\WPPaintVector.pdb
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\AppManifest.xaml
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\Bin\Debug\WPPaintVector.xap
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\App.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\MainPage.g.i.cs
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\WPPaintVector.g.resources
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\WPPaintVector.dll
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\WPPaintVector.pdb
+C:\Users\Alienware\Desktop\Nish\WPPaintVector\WPPaintVector\WPPaintVector\obj\Debug\XapCacheFile.xml
