@@ -1,0 +1,16 @@
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\bin\Debug\MyList.exe.config
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\obj\Debug\MyList.pdb
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\bin\Debug\nunit.framework.dll
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyList\bin\Debug\nunit.framework.xml
+D:\Document\Programs\Net\MyList\MyList\MyList\bin\Debug\MyList.exe.config
+D:\Document\Programs\Net\MyList\MyList\MyList\obj\Debug\MyList.exe
+D:\Document\Programs\Net\MyList\MyList\MyList\obj\Debug\MyList.pdb
+D:\Document\Programs\Net\MyList\MyList\MyList\bin\Debug\MyList.exe
+D:\Document\Programs\Net\MyList\MyList\MyList\bin\Debug\MyList.pdb
+D:\Document\Programs\Net\MyList\MyList\MyList\bin\Debug\nunit.framework.dll
+D:\Document\Programs\Net\MyList\MyList\MyList\bin\Debug\nunit.framework.xml
+D:\Document\Programs\Net\MyList\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache

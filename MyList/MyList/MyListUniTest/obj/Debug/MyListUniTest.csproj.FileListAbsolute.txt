@@ -1,0 +1,9 @@
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\MyListUniTest.dll
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\MyListUniTest.pdb
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\MyList.exe
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\nunit.framework.dll
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\MyList.pdb
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\bin\Debug\nunit.framework.xml
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\obj\Debug\MyListUniTest.csprojResolveAssemblyReference.cache
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\obj\Debug\MyListUniTest.dll
+C:\Users\Nishik\Documents\GitHub\Traning\Training\MyList\MyList\MyListUniTest\obj\Debug\MyListUniTest.pdb
