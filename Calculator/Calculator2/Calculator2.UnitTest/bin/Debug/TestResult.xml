@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\bin\Debug\Calculator2.UnitTest.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-11-19" time="13:25:33">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.6421" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Nishik\Downloads\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="NISH" user="Nishik" user-domain="Nish" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\bin\Debug\Calculator2.UnitTest.dll" executed="True" result="Success" success="True" time="0.025" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Calculator2" executed="True" result="Success" success="True" time="0.024" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTest" executed="True" result="Success" success="True" time="0.023" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Success" success="True" time="0.022" asserts="0">
+                <results>
+                  <test-case name="Calculator2.UnitTest.UnitTest1.TestAddition" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Calculator2.UnitTest.UnitTest1.TestDivision" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Calculator2.UnitTest.UnitTest1.TestDivisionByZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Calculator2.UnitTest.UnitTest1.TestMultiplication" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Calculator2.UnitTest.UnitTest1.TestSubtraction" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\Calculator2.UnitTest.nunit</TopNode>
+  <SelectedNode>[0-1000]C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\Calculator2.UnitTest.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\Calculator2.UnitTest.nunit" Expanded="true" />
+    <Node UniqueName="[0-1007]C:\Document\Programs\Net\Calculate\Calculator2\Calculator2.UnitTest\bin\Debug\Calculator2.UnitTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1008]Calculator2" Expanded="true" />
+    <Node UniqueName="[0-1009]Calculator2.UnitTest" Expanded="true" />
+    <Node UniqueName="[0-1001]Calculator2.UnitTest.UnitTest1" Expanded="true" />
+  </Nodes>
+</VisualState>

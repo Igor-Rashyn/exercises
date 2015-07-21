@@ -1,0 +1,5 @@
+D:\Document\Programs\Net\Calculate\Calculator2\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+D:\Document\Programs\Net\Calculate\Calculator2\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+D:\Document\Programs\Net\Calculate\Calculator2\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Calculate\Calculator2\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+D:\Document\Programs\Net\Calculate\Calculator2\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
