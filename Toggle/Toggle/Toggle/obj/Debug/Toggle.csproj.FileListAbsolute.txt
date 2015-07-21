@@ -1,0 +1,9 @@
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\bin\Debug\Toggle.exe.config
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\bin\Debug\Toggle.exe
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\bin\Debug\Toggle.pdb
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.Form1.resources
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.Properties.Resources.resources
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.exe
+D:\Document\Programs\Net\Toggle\Toggle\Toggle\obj\Debug\Toggle.pdb
