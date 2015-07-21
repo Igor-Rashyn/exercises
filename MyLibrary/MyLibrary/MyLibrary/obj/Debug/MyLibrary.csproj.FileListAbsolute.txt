@@ -1,0 +1,5 @@
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

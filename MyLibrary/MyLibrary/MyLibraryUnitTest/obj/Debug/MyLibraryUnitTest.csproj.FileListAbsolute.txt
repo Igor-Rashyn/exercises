@@ -1,0 +1,9 @@
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\MyLibraryUnitTest.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\MyLibraryUnitTest.pdb
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\MyLibrary.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\nunit.framework.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\MyLibrary.pdb
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\bin\Debug\nunit.framework.xml
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\obj\Debug\MyLibraryUnitTest.csprojResolveAssemblyReference.cache
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\obj\Debug\MyLibraryUnitTest.dll
+C:\Document\Programs\Net\MyLibrary\MyLibrary\MyLibraryUnitTest\obj\Debug\MyLibraryUnitTest.pdb
