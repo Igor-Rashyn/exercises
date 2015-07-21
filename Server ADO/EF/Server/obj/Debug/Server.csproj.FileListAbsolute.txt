@@ -1,0 +1,12 @@
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\Server.exe.config
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\Server.exe
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\Server.pdb
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EF.dll
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EntityFramework.dll
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EF.pdb
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EntityFramework.xml
+D:\Document\Programs\Net\Server ADO\EF\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Server ADO\EF\Server\obj\Debug\Server.exe
+D:\Document\Programs\Net\Server ADO\EF\Server\obj\Debug\Server.pdb
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Document\Programs\Net\Server ADO\EF\Server\bin\Debug\EntityFramework.SqlServer.xml
