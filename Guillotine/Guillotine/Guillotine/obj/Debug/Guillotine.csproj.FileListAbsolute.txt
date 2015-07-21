@@ -1,0 +1,9 @@
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\bin\Debug\Guillotine.exe.config
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\bin\Debug\Guillotine.exe
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\bin\Debug\Guillotine.pdb
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.Form1.resources
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.Properties.Resources.resources
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.exe
+D:\Document\Programs\Net\Guillotine\Guillotine\Guillotine\obj\Debug\Guillotine.pdb
