@@ -1,0 +1,9 @@
+C:\Document\Programs\Net\Ball\Ball\BallThread\bin\Debug\BallThread.exe.config
+C:\Document\Programs\Net\Ball\Ball\BallThread\bin\Debug\BallThread.exe
+C:\Document\Programs\Net\Ball\Ball\BallThread\bin\Debug\BallThread.pdb
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.csprojResolveAssemblyReference.cache
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.Field.resources
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.Properties.Resources.resources
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.csproj.GenerateResource.Cache
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.exe
+C:\Document\Programs\Net\Ball\Ball\BallThread\obj\Debug\BallThread.pdb

@@ -1,0 +1,9 @@
+C:\Document\Programs\Net\Ball\Ball\BallTimer\bin\Debug\BallTimer.exe.config
+C:\Document\Programs\Net\Ball\Ball\BallTimer\bin\Debug\BallTimer.exe
+C:\Document\Programs\Net\Ball\Ball\BallTimer\bin\Debug\BallTimer.pdb
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.csprojResolveAssemblyReference.cache
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.Properties.Resources.resources
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.csproj.GenerateResource.Cache
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.exe
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.pdb
+C:\Document\Programs\Net\Ball\Ball\BallTimer\obj\Debug\BallTimer.Field.resources
