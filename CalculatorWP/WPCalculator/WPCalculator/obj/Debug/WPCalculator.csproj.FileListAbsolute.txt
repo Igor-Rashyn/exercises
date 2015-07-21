@@ -1,0 +1,12 @@
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\Background.png
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\WPCalculator.dll
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\WPCalculator.pdb
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\Bin\Debug\WPCalculator.xap
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\App.g.i.cs
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\MainPage.g.i.cs
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\WPCalculator.g.resources
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\WPCalculator.dll
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\WPCalculator.pdb
+C:\Users\Alienware\Desktop\Nish\CalculatorWP\WPCalculator\WPCalculator\obj\Debug\XapCacheFile.xml

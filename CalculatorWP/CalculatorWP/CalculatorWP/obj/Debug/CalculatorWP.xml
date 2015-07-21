@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CalculatorWP
+</name>
+</assembly>
+<members>
+<member name="M:CalculatorWP.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:CalculatorWP.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:CalculatorWP.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:CalculatorWP.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member>
+</members>
+</doc>

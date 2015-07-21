@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="WPCalculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="WPCalculator" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Calculator" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Height="90" HorizontalAlignment="Left" Margin="19,19,0,0" Name="textBox1" Text="0" VerticalAlignment="Top" Width="413" />
+            <Button Content="/" Height="80" HorizontalAlignment="Left" Margin="281,126,0,0" Name="Division" VerticalAlignment="Top" Width="80" Click="Oppertion_Click"/>
+            <Button Content="9" Height="80" HorizontalAlignment="Left" Margin="193,126,0,0" Name="button2" VerticalAlignment="Top" Width="80" Click="Number_Click" />
+            <Button Content="8" Height="80" HorizontalAlignment="Left" Margin="106,126,0,0" Name="button3" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="7" Height="80" HorizontalAlignment="Left" Margin="18,126,0,0" Name="button4" VerticalAlignment="Top" Width="80" Click="Number_Click" />
+            <Button Content="*" Height="80" HorizontalAlignment="Left" Margin="281,214,0,0" Name="Multiplication" VerticalAlignment="Top" Width="80" Click="Oppertion_Click"/>
+            <Button Content="6" Height="80" HorizontalAlignment="Left" Margin="193,214,0,0" Name="button6" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="5" Height="80" HorizontalAlignment="Left" Margin="106,214,0,0" Name="button7" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="4" Height="80" HorizontalAlignment="Left" Margin="18,214,0,0" Name="button8" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="-" Height="80" HorizontalAlignment="Left" Margin="281,302,0,0" Name="Subtraction" VerticalAlignment="Top" Width="80" Click="Oppertion_Click"/>
+            <Button Content="3" Height="80" HorizontalAlignment="Left" Margin="193,302,0,0" Name="button10" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="2" Height="80" HorizontalAlignment="Left" Margin="106,302,0,0" Name="button11" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="1" Height="80" HorizontalAlignment="Left" Margin="18,302,0,0" Name="button12" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+            <Button Content="+" Height="80" HorizontalAlignment="Left" Margin="281,389,0,0" Name="Addition" VerticalAlignment="Top" Width="80" Click="Oppertion_Click"/>
+            <Button Content="=" Height="80" HorizontalAlignment="Left" Margin="193,389,0,0" Name="Equals" VerticalAlignment="Top" Width="80" Click="Oppertion_Click"/>
+            <Button Content="C" Height="80" HorizontalAlignment="Left" Margin="106,389,0,0" Name="button15" VerticalAlignment="Top" Width="80" Click="ClearAll_Click"/>
+            <Button Content="0" Height="80" HorizontalAlignment="Left" Margin="18,389,0,0" Name="button16" VerticalAlignment="Top" Width="80" Click="Number_Click"/>
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
