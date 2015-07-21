@@ -1,0 +1,9 @@
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\bin\Debug\GridViewCRUD.exe.config
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\bin\Debug\GridViewCRUD.exe
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\bin\Debug\GridViewCRUD.pdb
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.Form1.resources
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.Properties.Resources.resources
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.exe
+D:\Document\Programs\Net\Person\GridViewCRUD\GridViewCRUD\obj\Debug\GridViewCRUD.pdb

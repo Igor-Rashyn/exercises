@@ -1,0 +1,8 @@
+D:\Document\Programs\Net\Person\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Document\Programs\Net\Person\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Document\Programs\Net\Person\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Document\Programs\Net\Person\ConsoleApplication1\bin\Debug\Person.dll
+D:\Document\Programs\Net\Person\ConsoleApplication1\bin\Debug\Person.pdb
+D:\Document\Programs\Net\Person\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\Person\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Document\Programs\Net\Person\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
