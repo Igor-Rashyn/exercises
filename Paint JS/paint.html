@@ -1,0 +1,41 @@
+<head>
+  <script>
+    function draw() {
+      var canvas = document.getElementById("field");
+      var pnt = canvas.getContext("2d");
+      pnt.fillStyle = "black";
+      pnt.beginPath();
+
+      var x;
+      var y;
+
+      canvas.onmousedown = function(e) {
+        x = e.clientX;
+        y = e.clientY;
+        pnt.moveTo(x, y);
+      }
+
+      canvas.onmouseup = function(e) {
+        x = null;
+        y = null;
+      }
+
+      canvas.onmousemove = function(e) {
+        if (x == null || y == null) {
+          return;
+        }
+        x = e.clientX;
+        y = e.clientY;
+        x -= canvas.offsetLeft;
+        y -= canvas.offsetTop;
+        pnt.lineTo(x, y);
+        pnt.stroke();
+        pnt.moveTo(x, y);
+      }
+    };
+  </script>
+</head>
+<body onload="draw();">
+  <canvas id="field" width="500" height="500"
+  style="border: 1px solid black;"></canvas>
+</body>
