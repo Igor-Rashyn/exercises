@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Калькулятор</title>
+	<script language="javascript"> 
+	
+	var status = 1
+	var x = 0
+	var y = 0
+	var opp = '='
+	
+	function Operations(op)
+	{
+		y = parseFloat(document.calculator.display.value)
+		
+		switch(opp)
+		{
+			case '+':
+			x = x + y
+			break;
+			case '-':
+			x = x - y
+			break;
+			case '/':
+			x = x / y
+			break;
+			case '*':
+			x = x * y
+			break;
+			case '=':
+			x = y
+		}
+		if (y==0 && opp=='/')
+			{
+				document.calculator.display.value='Ат-та-та!!!'
+			}
+		else 
+		{
+				document.calculator.display.value = x
+		}
+		status = 1
+		opp = op
+	}
+		
+	function clearDisplay()
+	{
+		document.calculator.display.value = 0
+		status = 1
+		x = 0
+		y = 0
+		opp = '='
+	}
+	
+	function Numbers(num)
+	{
+		if (status == 1)
+		{
+			document.calculator.display.value = num
+			if(document.calculator.display.value != 0)
+			{
+				status = 0
+			}
+		}
+		else
+		{
+			document.calculator.display.value = document.calculator.display.value + num
+		}
+	}
+	</script>
+	
+</head>
+
+<body>
+Калькулятор большой
+
+<form name="calculator">
+<table border="1" width="150" height="150">
+
+<tr>
+<td colspan="4"> <input type="text" name="display" value="0" > </td>
+</tr>
+
+
+<tr>
+<td colspan="2"> <input type="button" name="C" value="C" onclick="clearDisplay()"></td>
+<td colspan="2"> <input type="button" name="=" value="=" onclick="Operations('=')"> </td>
+</tr>
+
+<tr>
+<td> <input type="button" name="7" value="7" onclick="Numbers(7)"></td>
+<td> <input type="button" name="8" value="8" onclick="Numbers(8)"> </td>
+<td> <input type="button" name="9" value="9" onclick="Numbers(9)"> </td>
+<td> <input type="button" name="/" value="/" onclick="Operations('/')"> </td>
+</tr>
+
+
+<tr>
+<td> <input type="button" name="4" value="4" onclick="Numbers(4)"></td>
+<td> <input type="button" name="5" value="5" onclick="Numbers(5)"></td>
+<td> <input type="button" name="6" value="6" onclick="Numbers(6)"></td>
+<td> <input type="button" name="*" value="*" onclick="Operations('*')"></td>
+</tr>
+
+
+<tr>
+<td> <input type="button" name="1" value="1" onclick="Numbers(1)"></td>
+<td> <input type="button" name="2" value="2" onclick="Numbers(2)"> </td>
+<td> <input type="button" name="3" value="3" onclick="Numbers(3)"></td>
+<td> <input type="button" name="-" value="-" onclick="Operations('-')"></td>
+</tr>
+
+
+<tr>
+<td colspan="2"> <input type="button" name="0" value="0" onclick="Numbers(0)"></td>
+<td> <input type="button" name="," value="," onclick=""></td>
+<td> <input type="button" name="+" value="+" onclick="Operations('+')"></td>
+</tr>
+
+</table>
+</form>
+</body>
+</html>
