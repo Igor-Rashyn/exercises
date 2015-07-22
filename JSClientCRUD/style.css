@@ -1,0 +1,22 @@
+/* td, th {
+width:70px;
+} */
+
+#dg{
+width:700px;
+display: table;
+border-collapse: separate;
+border-spacing: 2px;
+border-color: gray;
+}
+th, td{
+height:20px;
+}
+th {
+    text-align: left;
+	background-color: green;
+    color: white;
+}
+table, td, th {
+    border: 1px solid green;
+}
