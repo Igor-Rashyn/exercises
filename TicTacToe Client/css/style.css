@@ -1,0 +1,33 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+/*html,body,div{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}
+*/
+/*
+body {
+  background-color: black;
+}
+*/
+table{border-collapse:collapse;border-spacing:0}
+
+.actions {
+  text-align: center;
+}
+.cross {
+  background-image: url('../Images/cross.jpg');
+}
+.myContainer {
+  margin: 50px auto;
+  width: 300px;
+}
+.myCell {
+  background-color: white;
+  border: 2px solid black;
+  float: left;
+  height: 96px;
+  width: 96px;
+}
+.myCell:hover {
+  border-color: red;
+}
+.circle {
+  background-image: url('../Images/circle.jpg');
+}
