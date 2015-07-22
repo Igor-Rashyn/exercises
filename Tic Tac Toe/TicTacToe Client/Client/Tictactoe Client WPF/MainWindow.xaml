@@ -1,0 +1,11 @@
+﻿<Window x:Class="Tictactoe_Client_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Enter" HorizontalAlignment="Left" Height="24" Margin="305,127,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="195,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="105" Name="myTextBox"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Height="24" Margin="144,127,0,0" VerticalAlignment="Top" Width="46" Name="myLabel"/>
+
+    </Grid>
+</Window>

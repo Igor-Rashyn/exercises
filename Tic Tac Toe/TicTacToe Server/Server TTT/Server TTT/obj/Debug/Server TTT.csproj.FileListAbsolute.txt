@@ -1,0 +1,6 @@
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\bin\Debug\Server TTT.exe.config
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\bin\Debug\Server TTT.exe
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\bin\Debug\Server TTT.pdb
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\obj\Debug\Server TTT.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\obj\Debug\Server TTT.exe
+D:\Document\Programs\Net\TicTacToe Server\Server TTT\Server TTT\obj\Debug\Server TTT.pdb

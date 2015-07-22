@@ -1,0 +1,13 @@
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\bin\Debug\Tictactoe Client WPF.exe.config
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\bin\Debug\Tictactoe Client WPF.exe
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\bin\Debug\Tictactoe Client WPF.pdb
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF.csprojResolveAssemblyReference.cache
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\MainWindow.baml
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\MainWindow.g.cs
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\App.g.cs
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF_MarkupCompile.cache
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF.g.resources
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe_Client_WPF.Properties.Resources.resources
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF.csproj.GenerateResource.Cache
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF.exe
+D:\Document\Programs\Net\TicTacToe Client\Client\Tictactoe Client WPF\obj\Debug\Tictactoe Client WPF.pdb
